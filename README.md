@@ -51,7 +51,7 @@ Overall, Tesla appears to be a higher-risk asset, while Apple demonstrates more 
 
 ## 6. Product Link / Demo
 - GitHub Repository: https://github.com/jieni2402/tesla-apple-stock-analysis
-- Demo Video: [视频链接]
+- Demo Video: https://www.bilibili.com/video/BV18tdrB6EvD/?spm_id_from=333.1387.upload.video_card.click&vd_source=073bfe5465a738cc13da4bd22094c203
 
 ## 7. Limitations & Future Work
 
